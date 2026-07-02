@@ -1,2 +1,2 @@
 # equity-market-risk
-A personal, self-directed progression through equity market risk and tail-risk modeling — from testing whether returns are normally distributed, through GARCH-family volatility modeling and residual tail estimation (skewed-t, FHS, EVT), to a backtested, reusable risk engine.
+A self-directed progression through equity market risk and tail-risk modeling. Begins with testing whether returns are normally distributed, through GARCH-family volatility modeling and residual tail estimation (skewed-t, FHS, EVT), to a backtested risk engine.
