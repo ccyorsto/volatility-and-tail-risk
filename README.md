@@ -1,2 +1,2 @@
 # equity-market-risk
-Research series on equity return distributions, volatility modeling, and tail risk estimation. Starting from first principles (does the normal distribution even fit?) and building up to extreme value theory.
+A personal, self-directed progression through equity market risk and tail-risk modeling — from testing whether returns are normally distributed, through GARCH-family volatility modeling and residual tail estimation (skewed-t, FHS, EVT), to a backtested, reusable risk engine.
